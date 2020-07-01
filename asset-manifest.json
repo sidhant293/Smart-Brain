@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Smart-Brain/static/css/main.42074c44.chunk.css",
+    "main.js": "/Smart-Brain/static/js/main.102ba638.chunk.js",
+    "main.js.map": "/Smart-Brain/static/js/main.102ba638.chunk.js.map",
+    "runtime-main.js": "/Smart-Brain/static/js/runtime-main.b1a0123d.js",
+    "runtime-main.js.map": "/Smart-Brain/static/js/runtime-main.b1a0123d.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Smart-Brain/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.1d138cb3.chunk.js": "/Smart-Brain/static/js/2.1d138cb3.chunk.js",
+    "static/js/2.1d138cb3.chunk.js.map": "/Smart-Brain/static/js/2.1d138cb3.chunk.js.map",
+    "index.html": "/Smart-Brain/index.html",
+    "precache-manifest.c54a2e6486d306d5eadf3b5abcd111ef.js": "/Smart-Brain/precache-manifest.c54a2e6486d306d5eadf3b5abcd111ef.js",
+    "service-worker.js": "/Smart-Brain/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Smart-Brain/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.42074c44.chunk.css.map": "/Smart-Brain/static/css/main.42074c44.chunk.css.map",
+    "static/js/2.1d138cb3.chunk.js.LICENSE.txt": "/Smart-Brain/static/js/2.1d138cb3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1a0123d.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.1d138cb3.chunk.js",
+    "static/css/main.42074c44.chunk.css",
+    "static/js/main.102ba638.chunk.js"
+  ]
+}
